@@ -5,3 +5,22 @@
 .large-margin-bottom {
   margin-bottom: 130px;
 }
+
+.footer {
+  background: #161616;
+  max-height: 470px;
+  min-height: 300px;
+}
+
+.footer-content {
+  max-width: 300px;
+}
+
+.social-icon {
+  color: #555;
+  font-size: 35px;
+  padding: 5px;
+}
+.social-icon:hover {
+  color: white;
+}

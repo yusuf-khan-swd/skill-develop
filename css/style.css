@@ -24,3 +24,7 @@
 .social-icon:hover {
   color: white;
 }
+
+.content {
+  max-width: 600px;
+}

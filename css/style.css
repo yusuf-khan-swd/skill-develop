@@ -7,11 +7,11 @@
 }
 
 .slider-button-left {
-  left: -85px;
+  width: 4%;
 }
 
 .slider-button-right {
-  right: -85px;
+  width: 4%;
 }
 .star-icon {
   color: gold;

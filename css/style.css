@@ -6,6 +6,21 @@
   background: #f4fafd;
 }
 
+.slider-button-left {
+  left: -85px;
+}
+
+.slider-button-right {
+  right: -85px;
+}
+.star-icon {
+  color: gold;
+}
+
+.faq {
+  max-width: 750px;
+}
+
 .footer {
   background: #161616;
   max-height: 470px;
@@ -23,8 +38,4 @@
 }
 .social-icon:hover {
   color: white;
-}
-
-.faq {
-  max-width: 750px;
 }
